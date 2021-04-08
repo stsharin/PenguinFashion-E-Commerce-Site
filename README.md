@@ -1,4 +1,2 @@
-# Penguin-Fashion--E-Commerce-
 # PenguinFashion-E-Commerce-Site
-# PenguinFashion-E-Commerce-Site
-# PenguinFashion-E-Commerce-Site
+Build with simple html and css.
